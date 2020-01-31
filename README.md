@@ -6,3 +6,5 @@ All the term 1 class works and mile stone projects from Udacity Data Science Nan
 ## Supervised Learning:
 * Regression.
 * Classification.
+
+## Deep:
