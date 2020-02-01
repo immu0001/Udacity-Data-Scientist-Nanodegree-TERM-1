@@ -8,7 +8,12 @@ All the term 1 class works and mile stone projects from Udacity Data Science Nan
 #### Regression:
    How Regression Works 
    
-   Models Availabloe for Regression in Sklearn library
+   Models Available for Regression in Sklearn library
+   
+   Deep Insights about how these Models Work
+   
+   How to Use it With Example
+   
    
 #### Classification.
 
