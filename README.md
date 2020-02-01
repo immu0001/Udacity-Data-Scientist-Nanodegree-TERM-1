@@ -6,7 +6,9 @@ All the term 1 class works and mile stone projects from Udacity Data Science Nan
 ## Supervised Learning:
 * Regression.
    How Regression Works 
+   
    Models Availabloe for Regression in Sklearn library
+   
 * Classification.
 
 ## Deep Learning:
