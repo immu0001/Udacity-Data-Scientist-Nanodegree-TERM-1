@@ -4,12 +4,20 @@ All the term 1 class works and mile stone projects from Udacity Data Science Nan
 
 #### Under Machine Learning:
 ## Supervised Learning:
-* Regression.
+
+#### Regression:
    How Regression Works 
    
    Models Availabloe for Regression in Sklearn library
    
-* Classification.
+#### Classification.
 
 ## Deep Learning:
-* 
+
+ #### Regression:
+   How Regression Works 
+   
+   Models Availabloe for Regression in Sklearn library
+   
+#### Classification.
+
