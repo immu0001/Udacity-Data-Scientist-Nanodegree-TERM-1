@@ -24,5 +24,5 @@ All the term 1 class works and mile stone projects from Udacity Data Science Nan
    
    Models Availabloe for Regression in Sklearn library
    
-#### Classification.
+#### Classification..
 
